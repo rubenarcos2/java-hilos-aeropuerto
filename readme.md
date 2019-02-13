@@ -12,4 +12,5 @@ Información disponible en: https://www.rarcos.com/hilos-en-java-demostracion-2-
 ### Licencia
 All content is licensed under a Creative Commons Attribution 4.0 International License
 [![LiLicensee: license.markdownC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 [License about details](https://github.com/rubenarcos2/java-hilos-aeropuerto/blob/master/license.md)
