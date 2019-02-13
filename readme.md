@@ -11,4 +11,4 @@ Aplicación, tipo applet en java para la demostración de la utilización de hil
 Información disponible en: https://www.rarcos.com/hilos-en-java-demostracion-2-2/
 
 ### Licencia
-[License about details](https://bitbucket.org/rubenarcos/java-hilos-aeropuerto/src/master/license.md)
+[License about details](https://github.com/rubenarcos2/java-hilos-aeropuerto/blob/master/license.md)
