@@ -11,7 +11,7 @@ Información disponible en: https://rarcos.com/Hilos_en_java-2/
 
 ## Ejemplo funcionamiento
 
-[![demostracion](https://rarcos.com/Hilos_en_java-2/demo_hilos_aeropuerto.gif)
+[![demostracion](https://rarcos.com/Hilos_en_java-2/demo_hilos_aeropuerto.gif)]
 
 ### Licencia
 All content is licensed under a Creative Commons Attribution 4.0 International License
