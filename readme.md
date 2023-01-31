@@ -7,11 +7,11 @@ Ejercicio de demostración
 Aplicación, tipo applet en java para la demostración de la utilización de hilos (threads) en java. 
  
 ## Documentación 
-Información disponible en: https://rarcos.com/Hilos_en_java-2/
+Información disponible en: https://rarcos.com/2016/06/02/Hilos_en_java-2/
 
 ## Ejemplo funcionamiento
 
-[![demostracion](https://rarcos.com/Hilos_en_java-2/demo_hilos_aeropuerto.gif)](https://rarcos.com/Hilos_en_java-2/demo_hilos_aeropuerto.gif)
+[![demostracion](https://rarcos.com/images/pages/aeropuerto.mp4)](https://rarcos.com/images/pages/aeropuerto.mp4)
 
 ### Licencia
 All content is licensed under a Creative Commons Attribution 4.0 International License
